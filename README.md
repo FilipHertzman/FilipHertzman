@@ -1,6 +1,6 @@
-# Hi, I'm Filip Hertzman 👋
+ Filip Hertzman 👋
 
-## 🚀 About Me
+#### 🚀 About Me
 I'm a [Your Role] with a passion for [Your Interests]. I have experience in [Technologies or Skills You Have]. I love exploring new technologies and learning new things.
 
 ## 🔧 Technologies & Tools
