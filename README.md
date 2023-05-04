@@ -1,31 +1,23 @@
- Filip Hertzman 👋
+# Hello, I'm Filip Hertzman 👋
 
-#### 🚀 About Me
-I'm a [Your Role] with a passion for [Your Interests]. I have experience in [Technologies or Skills You Have]. I love exploring new technologies and learning new things.
 
-## 🔧 Technologies & Tools
-* Language1
-* Language2
-* Framework1
-* Framework2
-* Tool1
-* Tool2
+### A passionate Application Developer Student from Sweden 💻
 
-## 🌱 I'm currently learning
-* New Technology or Skill
+* 🌱 I'm currently learning SwifUI
 
-## 💻 Projects
-1. [Project Name 1](Project URL 1) - A brief description of the project.
-2. [Project Name 2](Project URL 2) - A brief description of the project.
+* 🌐 Check out my website: https://filiphertzman.com
 
-## 📝 Blog / Writing
-* [Article Title](filiphertzman.com) - A brief description of the article.
+* 📫 How to reach me: filip.hertzman@gmail.com
 
-## 📫 How to reach me
-* Email: [Your Email]
-* LinkedIn: [Your LinkedIn Profile URL]
-* Twitter: [Your Twitter Handle]
-* Portfolio: [Your Portfolio URL]
+### Connect with me
+<a href="https://www.linkedin.com/in/filip-hertzman-017709167/?originalSubdomain=se"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"></a>
 
-## ⚡ Fun fact
-Something interesting or fun about you.
+### Languages and Tools
+<div style="display: inline-block;">
+  <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma" width="30" height="30">
+  <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" width="30" height="30">
+  <img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="Kotlin" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="30" height="30">
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiphertzman&layout=compact)](https://github.com/filiphertzman/github-readme-stats)
