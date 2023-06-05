@@ -1,13 +1,13 @@
-# Hello, I'm Filip Hertzman 👋
+#  Filip Hertzman  
 
 
-### A passionate Application Developer Student from Sweden 💻
+### A passionate iOS Developer with a growing passion for SwiftUI and psychology-driven UX design. 
 
-* 🌱 I'm currently learning SwifUI
+*  I'm currently learning SwifUI
 
-* 🌐 Check out my website: https://filiphertzman.com
+*  Check out my website: https://filiphertzman.com
 
-* 📫 How to reach me: filip.hertzman@gmail.com
+*  How to reach me: filip.hertzman@gmail.com
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/filip-hertzman-017709167/?originalSubdomain=se"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"></a>
