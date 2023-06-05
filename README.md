@@ -1,7 +1,7 @@
 #  Filip Hertzman  
 
 
-### A passionate iOS Developer with a growing passion for SwiftUI and psychology-driven UX design. 
+### iOS Developer with a growing passion for SwiftUI and psychology-driven UX design. 
 
 *  I'm currently learning SwifUI
 
