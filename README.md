@@ -8,6 +8,9 @@
 *  Check out my website: https://filiphertzman.com
 
 *  How to reach me: filip.hertzman@gmail.com
+  
+* [View me on App Store](https://apps.apple.com/tr/app/warrantguard/id6465695908)
+
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/filip-hertzman-017709167/?originalSubdomain=se"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"></a>
