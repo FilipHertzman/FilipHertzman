@@ -3,13 +3,11 @@
 
 ### Application Developer with a growing passion for SwiftUI and psychology-driven UX design. 
 
-*  I'm currently learning SwifUI
-
 *  Check out my website: https://filiphertzman.com
 
 *  How to reach me: filip.hertzman@gmail.com
   
-* [View me on App Store](https://apps.apple.com/tr/app/warrantguard/id6465695908)
+*  View me on App Store: [App Store](https://apps.apple.com/tr/app/warrantguard/id6465695908)
 
 
 ### Connect with me
